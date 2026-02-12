@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Proof",
+    "slug": "proof",
+    "scheme": "proof",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0E0E11"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.proof.app"
+    },
+    "android": {
+      "package": "com.proof.app"
+    }
+  }
+}
